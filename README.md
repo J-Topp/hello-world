@@ -1,5 +1,5 @@
 # hello-world
-First repo test
+First repo test.
 
 
 Experimental repo to gain understanding of GitHub functionality.
